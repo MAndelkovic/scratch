@@ -156,12 +156,7 @@ import export_lattice as ex
 
 The following script displays how we can export the lattice:
 
-<section>
-  <p>example.html</p>
-  <pre><code data-trim>
 <script src="https://gist.github.com/MAndelkovic/633949a568f5c7842381be265b49c02a.js"></script>
-  </code></pre>
-</section>
 
 https://gist.github.com/MAndelkovic/633949a568f5c7842381be265b49c02a
 
