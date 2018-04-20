@@ -181,3 +181,5 @@ sweep plots, scatter etc. Can be very useful.
 
 
 ## TODO: Tutorial about the types of disorder and more on exporting the lattice...
+
+<script src="https://gist.github.com/MAndelkovic/633949a568f5c7842381be265b49c02a.js"></script>
