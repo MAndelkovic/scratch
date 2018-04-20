@@ -184,5 +184,5 @@ sweep plots, scatter etc. Can be very useful.
 
 <script src="https://gist.github.com/MAndelkovic/633949a568f5c7842381be265b49c02a.js"></script>
 
-{% gist 633949a568f5c7842381be265b49c02a %}
+{% gist https://gist.github.com/MAndelkovic/633949a568f5c7842381be265b49c02a.js %}
 
